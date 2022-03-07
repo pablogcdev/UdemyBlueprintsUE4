@@ -1,11 +1,11 @@
 ,English,Spanish,Japaneese,Russian,Chineese,Catalan,German,Portuguese,French,Korean
 Emptyblank,,,,,,,,,,
-DevelopmentBy,Developed By,Desarrollado por,によって開発されました,Разработано,由开发,Desenvolupat per,Entwickelt von,Desenvolvido por,Développé par,에 의해 개발
-SpecialThanks,Special Thanks,Gracias especiales,特別な感謝,Специальная благодарность,特别感谢,Especial agraïment,Besonderen Dank,Agradecimentos especiais,Remerciement spécial,특별 감사
-Play,Play,Jugar,演奏する,Играть,玩,Jugar,abspielen,Toque,Jouer,플레이
-Settings,Settings,ajustes,設定,настройки,设置,ajustos,die Einstellungen,Configurações,Réglages,설정
-Quit,Quit,Dejar,終了する,Уволиться,退出,deixar,Verlassen,Sair,Quitter,떠나다
-Continue,Continue,Seguir,継続する,Продолжать,继续,continuar,Fortsetzen,Continuar,Continuer,계속하다
+DevelopmentBy,Developed By,Desarrollado por,によって開発された,Разработано,由开发,Desenvolupat per,Entwickelt von,Desenvolvido por,Développé par,개발 된
+SpecialThanks,Special Thanks,Gracias especiales,特別な感謝,Особая благодарность,特别感谢,Especial agraïment,Besonderer Dank,Agradecimentos especiais,Remerciement spécial,특별한 고마워
+Play,Play,Jugar,遊ぶ,Играть,玩,Jugar,Spiel,Jogar,Jouer,놀다
+Settings,Settings,Ajustes,設定,настройки,设置,Parada,Einstellungen,Configurações,Réglages,설정
+Quit,Quit,Dejar,やめる,Покидать,放弃,Abandonar,Aufhören,Desistir,Quitter,그만두 다
+Continue,Continue,Continuar,継続する,Продолжать,继续,Continuar,Fortsetzen,Continuar,Continuez,계속하다
 newgame,New Game,Nuevo juego,新しいゲーム,Новая игра,新游戏,Nou joc,Neues Spiel,Novo jogo,Nouveau jeu,새로운 게임
 On,On,Encendido,オン,Вкл,开,Encès,An,Ligar,Marche,켜키
 Off,Off,Apagado,オフ,Выкл,关,Apagat,Aus,Desligar,Arrêt,끄기
@@ -19,3 +19,39 @@ KOR,Korean,Koreano,韓国語,Корейский,韩语,Coreà,Koreanisch,Coreano
 JAP,Japaneese,Japonés,日本語,Японский,日语,Japonès,Japanisch,Japonês,Japonais,일본어
 CHI,Chineese,Chino,中国語,Китайский,中文,Xinès,Chinesisch,Chinês,Chinois,중국어
 POR,Portuguese,Portuguese,Portuguese,Portuguese,Portuguese,Portuguès,Portuguese,Português,Portuguese,Portuguese
+Language,Language,Idioma,言語,Язык,语言,Idioma,Sprache,Idioma,Langue,언어
+Chapters,Chapters,Capítulos,章選択,Главы,章节,Capítols,Kapitel,Capítulos,Chapitres,챕터
+ResetDefaults,Reset Default,Resetear,デフォルトにリセット,По умолчанию,重置为默认值,Resetejar,Standardeinstellungen wiederherstellen,Repor predefinições,Restaurer les paramètres par défaut,설정 초기화
+Gamma,Gamma,Gamma,明るさ,Гамма,伽玛,Gamma,Gamma,Gama,Gamma,감마
+TextureQuality,Texture Quality,Calidad de Texturas,テクスチャ品質,Качество текстур,纹理质量,Qualitat de Textures,Texturqualität,Qualidade da textura,Qualité de texture,텍스쳐 품질
+EffectsQuality,Effects Quality,Calidad de Efectos,効果の品質,Качество эффектов,效果质量,Qualitat d'Efectes,Effektqualität,Qualidade dos efeitos,Qualité des effets,이펙트 품질
+ScreenResolution,Screen Resolution,Resolución,画面の解像度,Разрешение экрана,屏幕分辨率,Resolució,Bildschirmauflösung,Resolução do ecrã,Résolution de l'écran,화면 해상도
+Low,Low,Bajo,低,Низкое,低,Baix,Niedrig,Baixa,Faible,낮은
+Medium,Medium,Medio,中,Среднее,中,Mitjà,Mittel,Média,Moyen,중간
+High,High,Alto,高,Высокое,高,Alt,Hoch,Alta,Élevé,높은
+Epic,Epic,Épico,大作,Эпическое,史诗的,Èpic,Episch,Épico,Épique,서사시
+Cinematic,Cinematic,Cinemático,映画みたいな,Кинематографическое,电影的,Cinemàtic,Cinematisch,Cinemático,Cinématique,영화
+Video2,Video,Video,動画,Видео,视频,Vídeo,Video,Vídeo,Vidéo,비디오
+Graphics,Graphics,Gráficos,グラフィック,Графика,图像,Gràfics,Grafik,Gráficos,Graphiques,그래픽
+OutlineSize,Outline Style,Contornos,アウトラインスタイル,Стройный стиль,大纲样式,Estil dels contorns,Umrissstil,Estilo de contorno,Style de contour,개요 스타일
+Invisible,Invisible,Invisible,見えない,Невидимый,无形的,Invisible,Unsichtbar,Invisível,Invisible,보이지 않는
+Small,Small,Pequeño,小さい,Небольшой,小的,Petit,Klein,Pequeno,Petit,작은
+Giant,Giant,Gigante,巨人,Гигант,巨大的,Gigante,Riese,Gigante,Géant,거대한
+Big,Big,Grande,大きい,Большой,大的,Gran,Groß,Grande,Gros,큰
+Huge,Huge,Enorme,巨大,Огромный,巨大的,Enorme,Enorm,Imenso,Énorme,거대한
+Antialiasing,Antialiasing,Antialiasing,アンチエイリアシング,Сглаживание,抗锯齿,Antialiasing,Kantenglättung,Antialiasing.,Anti crénelage,안티 앨리어싱
+Resolution,Resolution,Resolución,解像度,разрешение,解决,Resolució,Auflösung,Resolução,Résolution,해결
+ApplyResolution,Apply Resolution,Aplicar Resolución,解像度を適用します,Применить разрешение,应用分辨率,Aplicar Resolució,Auflösung anwenden,Aplicar resolução,Appliquer une résolution,해상도를 적용하십시오
+Disabled,Disabled,Desactivado,巨大,Неполноценный,禁用,Desactivat,Deaktiviert,Desabilitado,Désactivé,장애가있는
+Chapter1,Prologue,Prólogo,無効,Пролог,序幕,Introducció,Prolog,Prólogo,Prologue,프롤로그
+Chapter2,Chapter 1,Capítulo 1,プロローグ,Глава 1,第1章,Capítol 1,Kapitel 1,Capítulo 1,Chapitre 1,1 장
+Chapter3,Chapter 2,Capítulo 2,第1章,Глава 2,第2章,Capítol 2,Kapitel 2,Capítulo 2,Chapitre 2,제 2 장
+Chapter4,Chapter 3,Capítulo 3,第2章,Глава 3,第3章,Capítol 3,Kapitel 3,Capítulo 3,chapitre 3,3 장
+Chapter5,Ending,Final,第3章,Окончание,结尾,Final,Ende,Final,Fin,종결
+Ultra,Ultra,Ultra,無効,Ультра,极端主义者,Ultra,Ultra,Ultra,Ultra,극단론자
+Sensitivity,Rotate Sensitivity,Sensibilidad al rotar,感度を回転させる,Поверните чувствительность,旋转敏感性,Sensibilitat al rotar,Sensibilität drehen,Gire a sensibilidade,Tourner la sensibilité,민감도 회전
+Enemies,Enemies,Enemigos,敵,Враги,敌人,Enemics,Feinde,Inimigos,Ennemis,적들
+Accessibility,Accessibility,Accesibilidad,画面設定,Доступность,辅助功能,Accessibilitat,Zugänglichkeit,Acessibilidade,Accessibilité,접근성
+Back,Back,Volver,戻る,Назад,返回,Tornar,Zurück,Regressar,Retour,뒤로
+No,No,No,いいえ,Нет,否,No,Nein,Não,Non,아니오
+Yes,Yes,Sí,はい,Да,是,Sí,Ja,Sim,Oui,예
